@@ -1,15 +1,22 @@
 import java.util.*;
 public class Day01_Sum{
-     public static void main(String args[]){
-      Scanner scan=new Scanner(System.in);
-      System.out.println("enter the first number");
-      int num1=scan.nextInt();
-      System.out.println("enter the second number");
-      int num2=scan.nextInt();
+     public static void main(String[] args) {
+          Scanner scan=new Scanner(System.in);
 
-      int sum=num1+num2;
-      scan.close();
-      System.out.println("the sum of two numbers is.." + sum);
-      
+          /*taking input*/
+          System.out.println("enter first number");
+          int number1=scan.nextInt();
+          System.out.println("enter second number");
+          int number2=scan.nextInt();
+
+          /*calculating sum */
+          int sum=number1+number2;
+          System.out.println("The Sum of two numbers is:" + sum);
+          scan.close();
+
+
+
+
      }
+
 }
