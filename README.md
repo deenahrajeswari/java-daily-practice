@@ -12,10 +12,10 @@ Maintain GitHub streak and improve problem-solving skills.
 | Day | Problem | Status |
 |-----|--------|--------|
 | Day 1 | Sum of Two Numbers | ✅ |
+| Day 2 | Largest of Three Numbers | ✅ |
+| Day 3 | Factorial of a Number | ✅ |
 
-## 💻 Topics Covered
-- Java Basics
-- Input/Output
+
 
 ---
 ✨ Consistency over perfection!
