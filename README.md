@@ -14,6 +14,7 @@ Maintain GitHub streak and improve problem-solving skills.
 | Day 1 | Sum of Two Numbers | ✅ |
 | Day 2 | Largest of Three Numbers | ✅ |
 | Day 3 | Factorial of a Number | ✅ |
+| Day 4 | Reverse of a Number | ✅ |
 
 
 
