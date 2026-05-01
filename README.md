@@ -19,6 +19,7 @@ Maintain GitHub streak and improve problem-solving skills.
 | Day 6 | Multiplication of Tables | ✅ | 
 | Day 7 | Vowels in String          | ✅ | 
 | Day 8 | Reverse of String          | ✅ |
+| Day 9 | Palindrome of String          | ✅ |
 
 
 
