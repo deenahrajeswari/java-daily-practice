@@ -20,6 +20,7 @@ Maintain GitHub streak and improve problem-solving skills.
 | Day 7 | Vowels in String          | ✅ | 
 | Day 8 | Reverse of String          | ✅ |
 | Day 9 | Palindrome of String          | ✅ |
+| Day 10 | Remove space in String          | ✅ |
 
 
 
