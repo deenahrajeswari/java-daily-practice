@@ -11,16 +11,17 @@ Maintain GitHub streak and improve problem-solving skills.
 
 | Day | Problem | Status |
 |-----|--------|--------|
-| Day 1 | Sum of Two Numbers | ✅ |
-| Day 2 | Largest of Three Numbers | ✅ |
-| Day 3 | Factorial of a Number | ✅ |
-| Day 4 | Reverse of a Number | ✅ |
-| Day 5 | Palindrome of a Number | ✅ |
-| Day 6 | Multiplication of Tables | ✅ | 
-| Day 7 | Vowels in String          | ✅ | 
-| Day 8 | Reverse of String          | ✅ |
+| Day 1 | Sum of Two Numbers            | ✅ |
+| Day 2 | Largest of Three Numbers      | ✅ |
+| Day 3 | Factorial of a Number         | ✅ |
+| Day 4 | Reverse of a Number           | ✅ |
+| Day 5 | Palindrome of a Number        | ✅ |
+| Day 6 | Multiplication of Tables      | ✅ | 
+| Day 7 | Vowels in String              | ✅ | 
+| Day 8 | Reverse of String             | ✅ |
 | Day 9 | Palindrome of String          | ✅ |
-| Day 10 | Remove space in String          | ✅ |
+| Day 10 | Remove space in String       | ✅ |
+| Day 11 | Printing star pattern        | ✅ |
 
 
 
