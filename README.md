@@ -22,6 +22,7 @@ Maintain GitHub streak and improve problem-solving skills.
 | Day 9 | Palindrome of String          | ✅ |
 | Day 10 | Remove space in String       | ✅ |
 | Day 11 | Printing star pattern        | ✅ |
+| Day 12 | Swapping of numbers          | ✅ |
 
 
 
