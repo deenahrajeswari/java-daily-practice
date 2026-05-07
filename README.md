@@ -23,6 +23,7 @@ Maintain GitHub streak and improve problem-solving skills.
 | Day 10 | Remove space in String       | ✅ |
 | Day 11 | Printing star pattern        | ✅ |
 | Day 12 | Swapping of numbers          | ✅ |
+| Day 13 | Fibonacci Series             | ✅ |
 
 
 
