@@ -24,6 +24,7 @@ Maintain GitHub streak and improve problem-solving skills.
 | Day 11 | Printing star pattern        | ✅ |
 | Day 12 | Swapping of numbers          | ✅ |
 | Day 13 | Fibonacci Series             | ✅ |
+| Day 14 | Maximum number in arrary     | ✅ |
 
 
 
