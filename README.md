@@ -25,6 +25,7 @@ Maintain GitHub streak and improve problem-solving skills.
 | Day 12 | Swapping of numbers          | ✅ |
 | Day 13 | Fibonacci Series             | ✅ |
 | Day 14 | Maximum number in arrary     | ✅ |
+| Day 15 | Minimum number in arrary     | ✅ |
 
 
 
