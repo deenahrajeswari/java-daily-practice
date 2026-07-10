@@ -8,7 +8,18 @@ public class Day04_Reverse{
         int number=scan.nextInt();
 
         /*Using while loop */
+
+    /*int reverse=0;
+      while(number>0){
+        int remainder=number%10;
+        reverse=remainder+reverse*10;
+        number=number/10;
         
+        
+      }
+      System.out.println(reverse);*/
+        
+      /* using for loop */
         int reverse=0;
         for(int i=0;number>0;i++){
             int digit=number%10;
