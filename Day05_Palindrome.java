@@ -26,3 +26,29 @@ public class Day05_Palindrome{
         scan.close();
     }
 }
+
+/*Using functions */
+    /*import java.util.Scanner;
+class Solution {
+    public boolean isPalindrome(int x) {
+        int reverse=0;
+        int original=x;
+        while(x>0){
+        int digit=x%10;
+        reverse=reverse*10+digit;
+        x=x/10;
+        }
+        if(original==reverse){
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
+    public static void main(String args[]){
+        Scanner scan=new Scanner(System.in);
+        Solution obj=new Solution();
+        int input=scan.nextInt();
+        System.out.println(obj.isPalindrome(input));
+    }
+} */
