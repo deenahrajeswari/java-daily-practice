@@ -28,7 +28,7 @@ public class Day04_Reverse{
 
         }
         System.out.print(reverse);
-        
+        scan.close();
         
     }
     

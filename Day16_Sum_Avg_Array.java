@@ -14,5 +14,6 @@ public class Day16_Sum_Avg_Array{
     System.out.println("Sum=" + sum);
     int average=sum/size;
     System.out.println("Average=" + average);
+    scan.close();
   }
 }

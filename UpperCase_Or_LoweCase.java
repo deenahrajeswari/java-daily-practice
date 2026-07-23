@@ -10,6 +10,7 @@ public class UpperCase_Or_LoweCase {
      else{
         System.out.println("upper");
      }
+     scan.close();
    }
    
    }

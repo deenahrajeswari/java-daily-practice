@@ -22,7 +22,7 @@ public class Day02_largest {
     else{
         System.out.println("the largest number is " + number3);
     }
-        
+    scan.close(); 
     }
     
 
